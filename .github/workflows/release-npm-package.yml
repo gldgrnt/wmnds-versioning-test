@@ -27,6 +27,7 @@ jobs:
           path: build
   release:
     name: Release
+    needs: Build
     runs-on: ubuntu-latest
     steps:
       - name: Download build folder
