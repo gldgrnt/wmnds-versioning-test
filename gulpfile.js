@@ -52,5 +52,7 @@ const watchFiles = () => {
 };
 
 const serve = series(buildStyles, copyHtml, parallel(watchFiles, syncBrowser));
+const build = series(buildStyles, copyHtml);
 
 exports.default = serve;
+exports.build = build
