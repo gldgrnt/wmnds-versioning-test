@@ -1,3 +1,3 @@
 # Versioning test
 
-Package versioning using GitHub actions
+Package versioning using GitHub actions.
