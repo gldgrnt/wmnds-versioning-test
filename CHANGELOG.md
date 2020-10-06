@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.0...v1.4.1) (2020-10-06)
+
+
+### Bug Fixes
+
+* lint pull request titles ([#5](https://github.com/gldgrnt/wmnds-versioning-test/issues/5)) ([741475e](https://github.com/gldgrnt/wmnds-versioning-test/commit/741475e5601206ad0624433cae6eb6a154c0fc9d))
+
 # [1.4.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.3.1...v1.4.0) (2020-10-06)
 
 
