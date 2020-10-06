@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.3.1...v1.4.0) (2020-10-06)
+
+
+### Features
+
+* release nunjucks addition ([7fe60ad](https://github.com/gldgrnt/wmnds-versioning-test/commit/7fe60ad9be67126df957a1b9a48424f12a8d15b7))
+
 ## [1.3.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.3.0...v1.3.1) (2020-10-06)
 
 
