@@ -22,5 +22,14 @@
     "gulp-load-plugins": "^2.0.4",
     "gulp-sass": "^4.1.0",
     "semantic-release": "^17.1.2"
+  },
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git"
+    ]
   }
 }
