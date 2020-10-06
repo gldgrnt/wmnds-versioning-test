@@ -20,8 +20,12 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-cli": "^2.3.0",
+    "gulp-format-html": "^1.2.5",
     "gulp-htmlmin": "^5.0.1",
     "gulp-load-plugins": "^2.0.4",
+    "gulp-nunjucks": "^5.1.0",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-replace": "^1.0.0",
     "gulp-sass": "^4.1.0",
     "semantic-release": "^17.1.2"
   },
