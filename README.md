@@ -1,6 +1,6 @@
 # Versioning test
 
-Package versioning using GitHub actions.
+Package versioning using GitHub actions (+ maybe some more things).
 
 [View the package](https://unpkg.com/wmn-versioning-test)
 
