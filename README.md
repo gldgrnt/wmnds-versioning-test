@@ -2,6 +2,8 @@
 
 Package versioning using GitHub actions.
 
+Skip netlify test 2
+
 [View the package](https://unpkg.com/wmn-versioning-test)
 
 | Goal                                                    | Notes                                                                                                                                                                                                                                   |        Done        |
