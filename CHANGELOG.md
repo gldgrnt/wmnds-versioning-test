@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.4...v1.5.0) (2020-10-08)
+
+
+### Bug Fixes
+
+* make sure pacakge releases ([61cf078](https://github.com/gldgrnt/wmnds-versioning-test/commit/61cf078b033dbd559ed53c193d2d2646ea3c7553))
+* space error ([2c20bb7](https://github.com/gldgrnt/wmnds-versioning-test/commit/2c20bb74b76d69193a70aa8b287a70517049ecac))
+* update production workflow ([a398724](https://github.com/gldgrnt/wmnds-versioning-test/commit/a3987244358ae51c296ffdc75b32a3b2560baa9e))
+
+
+### Features
+
+* use release as env var ([09a3d23](https://github.com/gldgrnt/wmnds-versioning-test/commit/09a3d238e6c151c85b7bdcf82ab05ad42337a921))
+
 ## [1.4.4](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.3...v1.4.4) (2020-10-08)
 
 
