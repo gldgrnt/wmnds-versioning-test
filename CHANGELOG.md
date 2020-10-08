@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.2...v1.4.3) (2020-10-08)
+
+
+### Bug Fixes
+
+* remove test text ([#15](https://github.com/gldgrnt/wmnds-versioning-test/issues/15)) ([38d0a4d](https://github.com/gldgrnt/wmnds-versioning-test/commit/38d0a4daef9701e53c7928dd4c60af58c2268b2a))
+
 ## [1.4.2](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.1...v1.4.2) (2020-10-08)
 
 
