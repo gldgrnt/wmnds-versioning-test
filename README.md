@@ -2,8 +2,6 @@
 
 Package versioning using GitHub actions.
 
-This is a test.
-
 [View the package](https://unpkg.com/wmn-versioning-test)
 
 | Goal                                                    | Notes                                                                                                                                                                                                                                   |        Done        |
@@ -13,5 +11,3 @@ This is a test.
 | Version number accessible in nunjucks at **build time** | Correct version number currently not accessible as netlify builds when a new commit is pushed (not after package has been published)                                                                                                    |        :x:         |
 | Publish new release / version when PR is merged         | Publishes package if a semantic commit is pushed to `master` or when a semantically named PR is merged. PR titles are checked a [PR linting action](https://github.com/gldgrnt/wmnds-versioning-test/actions).                          |        :x:         |
 | Automatically update changelog                          | Automatically done with `semantic release`. When squashing and merging PR, the changelog will include any semantic commit from the branch that follows the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) spec. | :white_check_mark: |
-
-Test
