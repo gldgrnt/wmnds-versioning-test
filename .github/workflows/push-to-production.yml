@@ -33,15 +33,11 @@ jobs:
           VERSION_NUMBER=$VERSION_NUMBER npm run build
         env:
           VERSION_NUMBER: ${{ steps.dry_semantic.outputs.new_release_version }}
-      - name: Publish new release
-        uses: cycjimmy/semantic-release-action@v2
-        with:
-          extra_plugins: |
-            @semantic-release/changelog
-            @semantic-release/git
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+       - name: Publish package
+          run: npx semantic-release
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Deploy to netlify
         uses: nwtgck/actions-netlify@v1.1.11
         with:
