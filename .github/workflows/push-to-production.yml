@@ -20,9 +20,9 @@ jobs:
         uses: cycjimmy/semantic-release-action@v2
         id: dry_semantic # Need an `id` for output variables
         with:
-          dry-run: true
+          dry_run: true
           extra_plugins: |
-            @semantic-release/changelog@3.0.0
+            @semantic-release/changelog
             @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
