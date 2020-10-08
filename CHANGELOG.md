@@ -1,3 +1,16 @@
+## [1.4.2](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.1...v1.4.2) (2020-10-08)
+
+
+### Bug Fixes
+
+* add test to readme ([#9](https://github.com/gldgrnt/wmnds-versioning-test/issues/9)) ([a4f61ff](https://github.com/gldgrnt/wmnds-versioning-test/commit/a4f61ffcf00f44938488dbae099719d951835345))
+* skip netlify test 2 ([#12](https://github.com/gldgrnt/wmnds-versioning-test/issues/12)) [skip netlify] ([03d36f4](https://github.com/gldgrnt/wmnds-versioning-test/commit/03d36f449dd4151ee5542a1e743b19311f75ad17))
+
+
+### Reverts
+
+* Revert "fix: add test to readme (#9)" (#10) [skip-netlify] ([c59eab3](https://github.com/gldgrnt/wmnds-versioning-test/commit/c59eab30f576af877ee81613b62e1d61274637cb)), closes [#9](https://github.com/gldgrnt/wmnds-versioning-test/issues/9) [#10](https://github.com/gldgrnt/wmnds-versioning-test/issues/10)
+
 ## [1.4.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.0...v1.4.1) (2020-10-06)
 
 
