@@ -5,7 +5,9 @@ const paths = require("./paths");
 const fs = require("fs");
 
 // Get data
-const version = JSON.parse(fs.readFileSync("./package.json")).version;
+const version =
+  process.env.VERSION_NUMBER ||
+  JSON.parse(fs.readFileSync("./package.json")).version;
 
 module.exports = () => {
   return src(paths.njk.src)

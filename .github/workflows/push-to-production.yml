@@ -18,7 +18,7 @@ jobs:
           node-version: "12.x"
       - name: Check for new release
         uses: cycjimmy/semantic-release-action@v2
-        id: dry_semantic # Need an `id` for output variables
+        id: dry_semantic
         with:
           dry_run: true
           extra_plugins: |
@@ -27,12 +27,38 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - name: New release
-        if: steps.dry_semantic.outputs.new_release_published == 'true'
-        run: echo "New release!"
-      - name: New release
-        if: steps.dry_semantic.outputs.new_release_published != 'true'
-        run: echo "No new release :("
+      - name: Build site
+        run: |
+          npm ci
+          VERSION_NUMBER=$VERSION_NUMBER npm run build
+        env:
+          VERSION_NUMBER: ${{ steps.dry_semantic.outputs.new_release_version }}
+      - name: Publish new release
+        uses: cycjimmy/semantic-release-action@v2
+        with:
+          extra_plugins: |
+            @semantic-release/changelog
+            @semantic-release/git
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Deploy to netlify
+        uses: nwtgck/actions-netlify@v1.1.11
+        with:
+          publish-dir: "./build"
+          production-branch: master
+          production-deploy: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Production deploy from GitHub Actions"
+          enable-pull-request-comment: false
+          overwrites-pull-request-comment: false
+          enable-commit-comment: false
+          enable-commit-status: false
+          # netlify-config-path: ./netlify.toml
+          # functions-dir: ./functions
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
 # jobs:
 #   release:
 #     name: Release
