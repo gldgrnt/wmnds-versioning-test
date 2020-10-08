@@ -1,3 +1,12 @@
+## [1.4.4](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.3...v1.4.4) (2020-10-08)
+
+
+### Bug Fixes
+
+* add extra-plugins to action ([ad83100](https://github.com/gldgrnt/wmnds-versioning-test/commit/ad831008fc9cd23c6ee32bec9a9d1ae8fabcbff6))
+* rebuild site after version bump ([7f2fecc](https://github.com/gldgrnt/wmnds-versioning-test/commit/7f2fecc1a87216ef93ac7655c8519cb14c49d1c6))
+* test new release action ([0e04972](https://github.com/gldgrnt/wmnds-versioning-test/commit/0e04972555022feadcb9f32fdbf5d0c50ea0cbd2))
+
 ## [1.4.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.2...v1.4.3) (2020-10-08)
 
 
