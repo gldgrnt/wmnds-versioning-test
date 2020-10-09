@@ -1,4 +1,4 @@
-name: PR deploy preview
+name: PR preview
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Build
+    name: Build preview
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master
