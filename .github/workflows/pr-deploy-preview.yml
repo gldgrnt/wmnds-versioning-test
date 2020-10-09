@@ -29,8 +29,8 @@ jobs:
           deploy-message: ${{ github.event.pull_request.title }}
           enable-pull-request-comment: true
           overwrites-pull-request-comment: true
-          enable-commit-comment: false
-          enable-commit-status: false
+          enable-commit-comment: true
+          enable-commit-status: true
           alias: deploy-preview-${{ github.event.number }}
           # netlify-config-path: ./netlify.toml
           # functions-dir: ./functions
