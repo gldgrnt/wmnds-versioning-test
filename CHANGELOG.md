@@ -1,3 +1,11 @@
+## [1.5.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.0...v1.5.1) (2020-10-09)
+
+
+### Bug Fixes
+
+* test ([#18](https://github.com/gldgrnt/wmnds-versioning-test/issues/18)) ([68f58a4](https://github.com/gldgrnt/wmnds-versioning-test/commit/68f58a4f95ef23d27a7260e691613cf40286576c))
+* update readme ([#17](https://github.com/gldgrnt/wmnds-versioning-test/issues/17)) ([0076dd2](https://github.com/gldgrnt/wmnds-versioning-test/commit/0076dd23e277fe2bbbce6bfc897b8a711b434450))
+
 # [1.5.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.4.4...v1.5.0) (2020-10-08)
 
 
