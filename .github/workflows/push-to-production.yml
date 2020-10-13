@@ -18,26 +18,34 @@ jobs:
           node-version: "12.x"
       - name: Check for new release
         uses: cycjimmy/semantic-release-action@v2
-        id: dry_semantic
+        id: dry_release
         with:
           dry_run: true
           extra_plugins: |
             @semantic-release/changelog
             @semantic-release/git
         env:
-          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+          GH: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Build site
         run: |
           npm ci
           VERSION_NUMBER=$VERSION_NUMBER npm run build
         env:
-          VERSION_NUMBER: ${{ steps.dry_semantic.outputs.new_release_version }}
+          VERSION_NUMBER: ${{ steps.dry_release.outputs.new_release_version }}
       - name: Publish package
-        if: steps.dry_semantic.outputs.new_release_published == 'true'
-        run: npx semantic-release
+        if: steps.dry_release.outputs.new_release_published == 'true'
+        # run: npx semantic-release
+        # env:
+        #   GH: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+        #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        uses: cycjimmy/semantic-release-action@v2
+        with:
+          extra_plugins: |
+            @semantic-release/changelog
+            @semantic-release/git
         env:
-          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+          GH: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Deploy to netlify
         uses: nwtgck/actions-netlify@v1.1.11
