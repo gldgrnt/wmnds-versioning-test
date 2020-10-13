@@ -25,7 +25,7 @@ jobs:
             @semantic-release/changelog
             @semantic-release/git
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Build site
         run: |
@@ -34,9 +34,10 @@ jobs:
         env:
           VERSION_NUMBER: ${{ steps.dry_semantic.outputs.new_release_version }}
       - name: Publish package
+        if: steps.dry_semantic.outputs.new_release_published == 'true'
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Deploy to netlify
         uses: nwtgck/actions-netlify@v1.1.11
