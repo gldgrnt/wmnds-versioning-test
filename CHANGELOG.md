@@ -1,3 +1,10 @@
+## [1.5.6](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.5...v1.5.6) (2020-10-19)
+
+
+### Bug Fixes
+
+* remove test text ([#22](https://github.com/gldgrnt/wmnds-versioning-test/issues/22)) ([9acad19](https://github.com/gldgrnt/wmnds-versioning-test/commit/9acad1975630e870c4849a99ed15700af8a8473d))
+
 ## [1.5.5](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.4...v1.5.5) (2020-10-19)
 
 

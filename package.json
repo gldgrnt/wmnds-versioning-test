@@ -1,6 +1,6 @@
 {
   "name": "wmn-versioning-test",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "",
   "main": "build/index.html",
   "scripts": {
