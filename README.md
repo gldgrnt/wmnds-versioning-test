@@ -2,7 +2,7 @@
 
 Package versioning using GitHub actions.
 
-Yet another test
+Semantic release test.
 
 [View the package](https://unpkg.com/wmn-versioning-test)
 
