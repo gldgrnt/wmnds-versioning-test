@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@master
+        with:
+          persist-credentials: false
       - name: Setup node
         uses: actions/setup-node@v1
         with:
@@ -27,7 +29,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          GIT_CREDENTIALS: ${{ secrets.GIT_CREDENTIALS }}
       - name: Build site
         run: |
           npm ci
@@ -40,7 +41,6 @@ jobs:
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
-          GIT_CREDENTIALS: ${{ secrets.GIT_CREDENTIALS }}
       - name: Deploy to netlify
         uses: nwtgck/actions-netlify@v1.1.11
         with:
