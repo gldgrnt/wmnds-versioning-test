@@ -27,6 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GIT_CREDENTIALS: ${{ secrets.GIT_CREDENTIALS }}
       - name: Build site
         run: |
           npm ci
@@ -37,9 +38,9 @@ jobs:
         if: steps.dry_release.outputs.new_release_published == 'true'
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
-          GH_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+          GIT_CREDENTIALS: ${{ secrets.GIT_CREDENTIALS }}
       - name: Deploy to netlify
         uses: nwtgck/actions-netlify@v1.1.11
         with:
