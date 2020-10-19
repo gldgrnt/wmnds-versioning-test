@@ -1,3 +1,10 @@
+## [1.5.5](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.4...v1.5.5) (2020-10-19)
+
+
+### Bug Fixes
+
+* add  semantic-release/git ([b3b8510](https://github.com/gldgrnt/wmnds-versioning-test/commit/b3b851059599714781b84cb820eb723b0d7c9f94))
+
 ## [1.5.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.0...v1.5.1) (2020-10-09)
 
 
