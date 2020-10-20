@@ -12,14 +12,17 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
+      # Checkout branch
       - name: Checkout master
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
         with:
           persist-credentials: false
+      # Setup node environment
       - name: Setup node
         uses: actions/setup-node@v1
         with:
           node-version: "12.x"
+      # Dry run a release to check if one if necessary
       - name: Check for new release
         uses: cycjimmy/semantic-release-action@v2
         id: dry_release
@@ -31,19 +34,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      # Build site
       - name: Build site
         run: |
           npm ci
           VERSION_NUMBER=$VERSION_NUMBER npm run build
         env:
           VERSION_NUMBER: ${{ steps.dry_release.outputs.new_release_version }}
+      # Publish the release IF the version number is being changed
       - name: Publish package
         if: steps.dry_release.outputs.new_release_published == 'true'
         run: npx semantic-release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+      # Deploy build folder to Netlify IF the branch is master
       - name: Deploy to netlify
+        if: github.ref == 'refs/heads/master'
         uses: nwtgck/actions-netlify@v1.1.11
         with:
           publish-dir: "./build"
