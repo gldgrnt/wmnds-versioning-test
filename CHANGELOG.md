@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.0.1) (2020-10-20)
+
+
+### Bug Fixes
+
+* change h1 to normal size ([2f334c7](https://github.com/gldgrnt/wmnds-versioning-test/commit/2f334c7ca9723ca24918d158e89159b7a87e59b1))
+
 # [3.0.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v2.0.0...v3.0.0) (2020-10-20)
 
 
