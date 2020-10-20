@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.6...v2.0.0) (2020-10-20)
+
+
+### Features
+
+* make header small ([85a94e3](https://github.com/gldgrnt/wmnds-versioning-test/commit/85a94e3351074e85b4645fed2bea6c9661712419))
+
+
+### BREAKING CHANGES
+
+* make h1 the same size as normal text
+
 ## [1.5.6](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.5...v1.5.6) (2020-10-19)
 
 
