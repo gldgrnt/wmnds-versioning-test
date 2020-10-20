@@ -1,3 +1,22 @@
+## [2.0.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v2.0.0...v2.0.1) (2020-10-20)
+
+
+### Bug Fixes
+
+* increase size of h1 ([474fce3](https://github.com/gldgrnt/wmnds-versioning-test/commit/474fce3da7bbcf2c86411982ff56f9235dbc0479))
+
+# [2.0.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.6...v2.0.0) (2020-10-20)
+
+
+### Features
+
+* make header small ([85a94e3](https://github.com/gldgrnt/wmnds-versioning-test/commit/85a94e3351074e85b4645fed2bea6c9661712419))
+
+
+### BREAKING CHANGES
+
+* make h1 the same size as normal text
+
 ## [1.5.6](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.5...v1.5.6) (2020-10-19)
 
 
