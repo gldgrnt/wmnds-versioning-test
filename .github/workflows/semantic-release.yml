@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout branch
-      - name: Checkout master
+      - name: Checkout branch
         uses: actions/checkout@v2
         with:
           persist-credentials: false
