@@ -26,7 +26,7 @@ jobs:
           production-branch: master
           production-deploy: false
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          deploy-message: "PR: #${{ github.event.number }}"
+          deploy-message: "PR #${{ github.event.number }}"
           enable-pull-request-comment: true
           overwrites-pull-request-comment: true
           enable-commit-comment: true
