@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout branch
-      - name: Checkout master
+      - name: Checkout branch
         uses: actions/checkout@v2
         with:
           persist-credentials: false
@@ -49,7 +49,7 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
       # Deploy build folder to Netlify IF the branch is master
-      - name: Deploy to netlify
+      - name: Deploy to Netlify
         if: github.ref == 'refs/heads/master'
         uses: nwtgck/actions-netlify@v1.1.11
         with:
@@ -57,7 +57,7 @@ jobs:
           production-branch: master
           production-deploy: true
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          deploy-message: "Production deploy from GitHub Actions"
+          deploy-message: "${{ github.event.head_commit.message }}"
           enable-pull-request-comment: false
           overwrites-pull-request-comment: false
           enable-commit-comment: false

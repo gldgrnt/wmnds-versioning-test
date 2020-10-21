@@ -2,6 +2,8 @@
 
 Package versioning using GitHub actions.
 
+Test message.
+
 [View the package](https://unpkg.com/wmn-versioning-test)
 
 | Goal                                                    | Notes                                                                                                                                                                                                                                   |        Done        |
