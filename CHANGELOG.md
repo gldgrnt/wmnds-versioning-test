@@ -478,6 +478,18 @@
 
 * add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
+# [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
+
+
+### Bug Fixes
+
+* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
+
+
+### Features
+
+* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.1...v3.1.0) (2020-10-21)
 
 
