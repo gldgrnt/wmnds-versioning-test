@@ -1,3 +1,10 @@
+## [4.0.2](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.1...v4.0.2) (2020-10-22)
+
+
+### Bug Fixes
+
+* fix bug ([4ef6328](https://github.com/gldgrnt/wmnds-versioning-test/commit/4ef6328ca84da6c6e838b8d19fafd6d09b7f0d78))
+
 ## [4.0.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.0...v4.0.1) (2020-10-22)
 
 ### Bug Fixes
