@@ -1,3 +1,10 @@
+## [4.0.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.2...v4.0.3) (2020-10-22)
+
+
+### Bug Fixes
+
+* add missing full stop ([e3c042d](https://github.com/gldgrnt/wmnds-versioning-test/commit/e3c042de276ec4e820953dcc26a62a86f43cf661))
+
 ## [4.0.2](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.1...v4.0.2) (2020-10-22)
 
 
