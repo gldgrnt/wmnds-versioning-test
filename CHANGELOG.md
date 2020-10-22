@@ -1,3 +1,16 @@
+# [4.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.3...v4.1.0) (2020-10-22)
+
+
+### Bug Fixes
+
+* add test class back in ([53ae633](https://github.com/gldgrnt/wmnds-versioning-test/commit/53ae633e425e8fb5552e1eec6b47b33db4694ae2))
+* change title colour to red ([#27](https://github.com/gldgrnt/wmnds-versioning-test/issues/27)) ([68b64ec](https://github.com/gldgrnt/wmnds-versioning-test/commit/68b64eccac43de1e8d32b2d8054ae9d23167dcae)), closes [#26](https://github.com/gldgrnt/wmnds-versioning-test/issues/26)
+
+
+### Features
+
+* add test css class ([d2d9244](https://github.com/gldgrnt/wmnds-versioning-test/commit/d2d92449a7a559f601d5aa4e69145ea67c0b7422))
+
 ## [4.0.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.2...v4.0.3) (2020-10-22)
 
 
