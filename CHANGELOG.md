@@ -1,626 +1,527 @@
 ## [4.0.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.0...v4.0.1) (2020-10-22)
 
-
 ### Bug Fixes
 
-* fix a different bug ([ca36f49](https://github.com/gldgrnt/wmnds-versioning-test/commit/ca36f493d67d3340fa2d6f0a43a61935c82dca9f))
+- fix a different bug ([ca36f49](https://github.com/gldgrnt/wmnds-versioning-test/commit/ca36f493d67d3340fa2d6f0a43a61935c82dca9f))
 
 # [4.0.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v4.0.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
-* remove h1 styles ([aadeb1d](https://github.com/gldgrnt/wmnds-versioning-test/commit/aadeb1d9a59e138cdc74024904f00320e2daa8b5))
-* remove underline ([8337a72](https://github.com/gldgrnt/wmnds-versioning-test/commit/8337a72b0f7aa163cf75e7ed976d0b6bf1cf69de))
-
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- remove h1 styles ([aadeb1d](https://github.com/gldgrnt/wmnds-versioning-test/commit/aadeb1d9a59e138cdc74024904f00320e2daa8b5))
+- remove underline ([8337a72](https://github.com/gldgrnt/wmnds-versioning-test/commit/8337a72b0f7aa163cf75e7ed976d0b6bf1cf69de))
 
 ### BREAKING CHANGES
 
-* revert h1 to browser style
+- revert h1 to browser style
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
-* remove underline ([8337a72](https://github.com/gldgrnt/wmnds-versioning-test/commit/8337a72b0f7aa163cf75e7ed976d0b6bf1cf69de))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- remove underline ([8337a72](https://github.com/gldgrnt/wmnds-versioning-test/commit/8337a72b0f7aa163cf75e7ed976d0b6bf1cf69de))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
-
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
+- add title underline ([#25](https://github.com/gldgrnt/wmnds-versioning-test/issues/25)) ([6dd22a3](https://github.com/gldgrnt/wmnds-versioning-test/commit/6dd22a38e153f41e9c95541015bd119743e59e04))
 
 # [3.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.1...v3.1.0) (2020-10-21)
 
-
 ### Bug Fixes
 
-* increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
+- increase height of h1 ([5688db4](https://github.com/gldgrnt/wmnds-versioning-test/commit/5688db40c41764b956c1f1338d33558aeb59aed0))
 
 ### Features
 
-* add underline to title ([a467c3f](https://github.com/gldgrnt/wmnds-versioning-test/commit/a467c3f0380ab2a2c034fcb6a741038f2db588e8))
+- add underline to title ([a467c3f](https://github.com/gldgrnt/wmnds-versioning-test/commit/a467c3f0380ab2a2c034fcb6a741038f2db588e8))
 
 ## [3.0.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v3.0.0...v3.0.1) (2020-10-20)
 
-
 ### Bug Fixes
 
-* change h1 to normal size ([2f334c7](https://github.com/gldgrnt/wmnds-versioning-test/commit/2f334c7ca9723ca24918d158e89159b7a87e59b1))
+- change h1 to normal size ([2f334c7](https://github.com/gldgrnt/wmnds-versioning-test/commit/2f334c7ca9723ca24918d158e89159b7a87e59b1))
 
 # [3.0.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v2.0.0...v3.0.0) (2020-10-20)
 
-
 ### Bug Fixes
 
-* increase size of h1 ([474fce3](https://github.com/gldgrnt/wmnds-versioning-test/commit/474fce3da7bbcf2c86411982ff56f9235dbc0479))
-
+- increase size of h1 ([474fce3](https://github.com/gldgrnt/wmnds-versioning-test/commit/474fce3da7bbcf2c86411982ff56f9235dbc0479))
 
 ### Features
 
-* Merge next into master ([#23](https://github.com/gldgrnt/wmnds-versioning-test/issues/23)) ([574e3ad](https://github.com/gldgrnt/wmnds-versioning-test/commit/574e3ad02c4e1ebab19dc1fb5746077ef945c75c))
-
+- Merge next into master ([#23](https://github.com/gldgrnt/wmnds-versioning-test/issues/23)) ([574e3ad](https://github.com/gldgrnt/wmnds-versioning-test/commit/574e3ad02c4e1ebab19dc1fb5746077ef945c75c))
 
 ### BREAKING CHANGES
 
-* make h1 the same size as normal text
+- make h1 the same size as normal text
 
-* chore(release): 2.0.0 [skip ci]
+- chore(release): 2.0.0 [skip ci]
 
 # [2.0.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v1.5.6...v2.0.0) (2020-10-20)
 
 ### Features
 
-* make header small ([85a94e3](https://github.com/gldgrnt/wmnds-versioning-test/commit/85a94e3351074e85b4645fed2bea6c9661712419))
+- make header small ([85a94e3](https://github.com/gldgrnt/wmnds-versioning-test/commit/85a94e3351074e85b4645fed2bea6c9661712419))
 
 ### BREAKING CHANGES
 
-* make h1 the same size as normal text
+- make h1 the same size as normal text
 
-* fix: increase size of h1
+- fix: increase size of h1
 
-* chore(release): 2.0.1 [skip ci]
+- chore(release): 2.0.1 [skip ci]
 
 ## [2.0.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v2.0.0...v2.0.1) (2020-10-20)
 
 ### Bug Fixes
 
-* increase size of h1 ([474fce3](https://github.com/gldgrnt/wmnds-versioning-test/commit/474fce3da7bbcf2c86411982ff56f9235dbc0479))
+- increase size of h1 ([474fce3](https://github.com/gldgrnt/wmnds-versioning-test/commit/474fce3da7bbcf2c86411982ff56f9235dbc0479))
 
 Co-authored-by: semantic-release-bot <semantic-release-bot@martynus.net>
 
