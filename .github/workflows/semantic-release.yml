@@ -13,9 +13,9 @@ jobs:
       # Checkout branch
       - name: Checkout branch
         uses: actions/checkout@v2
-        with:
-          # persist-credentials: false
-          token: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+        # with:
+        # persist-credentials: false
+        # token: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
       # Setup node environment
       - name: Setup node
         uses: actions/setup-node@v1
