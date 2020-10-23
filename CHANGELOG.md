@@ -1,3 +1,11 @@
+## [4.1.2](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.1...v4.1.2) (2020-10-23)
+
+
+### Bug Fixes
+
+* add persist-credentials back in ([ca696de](https://github.com/gldgrnt/wmnds-versioning-test/commit/ca696de3927217197eb47f4447d47ee9c93cf362))
+* remove token from workflow ([be56b52](https://github.com/gldgrnt/wmnds-versioning-test/commit/be56b5260be113d9970ecf6c56ab989cd2f5944e))
+
 ## [4.1.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.0...v4.1.1) (2020-10-23)
 
 
