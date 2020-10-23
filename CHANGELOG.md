@@ -1,3 +1,10 @@
+## [4.1.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.2...v4.1.3) (2020-10-23)
+
+
+### Bug Fixes
+
+* change conditional running of release job ([dea758d](https://github.com/gldgrnt/wmnds-versioning-test/commit/dea758d3ae620bf53c314a21943df8245d9ac6b2))
+
 ## [4.1.2](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.1...v4.1.2) (2020-10-23)
 
 
