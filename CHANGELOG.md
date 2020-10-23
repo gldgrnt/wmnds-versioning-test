@@ -1,3 +1,10 @@
+## [4.1.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.0...v4.1.1) (2020-10-23)
+
+
+### Bug Fixes
+
+* use token for branch checkout ([e9cbe58](https://github.com/gldgrnt/wmnds-versioning-test/commit/e9cbe5897d1e2e65f53c5945996c29162880ae9b))
+
 # [4.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.3...v4.1.0) (2020-10-22)
 
 
