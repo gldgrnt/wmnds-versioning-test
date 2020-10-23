@@ -9,13 +9,13 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[ci skip]')"
     steps:
       # Checkout branch
       - name: Checkout branch
         uses: actions/checkout@v2
-        # with:
-        # persist-credentials: false
-        # token: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
+        with:
+          persist-credentials: false
       # Setup node environment
       - name: Setup node
         uses: actions/setup-node@v1
