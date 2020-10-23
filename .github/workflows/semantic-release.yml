@@ -23,7 +23,7 @@ jobs:
           node-version: "12.x"
       # Dry run a release to check if one if necessary
       - name: Check for new release
-        uses: cycjimmy/semantic-release-action@v2
+        uses: cycjimmy/semantic-release-action@v2.5.0
         id: dry_release
         with:
           dry_run: true
