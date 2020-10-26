@@ -1,3 +1,10 @@
+## [4.1.5](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.4...v4.1.5) (2020-10-26)
+
+
+### Bug Fixes
+
+* increase height of h1 ([#32](https://github.com/gldgrnt/wmnds-versioning-test/issues/32)) ([98a5501](https://github.com/gldgrnt/wmnds-versioning-test/commit/98a55012c1030bf455620a9245effa9ffc64cfa6))
+
 ## [4.1.4](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.3...v4.1.4) (2020-10-26)
 
 
