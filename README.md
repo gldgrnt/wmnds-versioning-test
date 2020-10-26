@@ -2,8 +2,6 @@
 
 Package versioning using GitHub actions.
 
-The colour of the h1 is red.
-
 [View the package](https://unpkg.com/wmn-versioning-test)
 
 | Goal                                                    | Notes                                                                                                                                                                                                                                   |        Done        |
