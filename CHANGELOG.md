@@ -1,3 +1,10 @@
+## [4.1.4](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.3...v4.1.4) (2020-10-26)
+
+
+### Bug Fixes
+
+* remove duplicated styles ([#30](https://github.com/gldgrnt/wmnds-versioning-test/issues/30)) ([4f95f28](https://github.com/gldgrnt/wmnds-versioning-test/commit/4f95f281ec140a66fde09467dc9380d7eab54645))
+
 ## [4.1.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.2...v4.1.3) (2020-10-23)
 
 
