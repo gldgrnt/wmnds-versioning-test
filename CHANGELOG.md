@@ -1,3 +1,38 @@
+## [4.1.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.2...v4.1.3) (2020-10-23)
+
+
+### Bug Fixes
+
+* change conditional running of release job ([dea758d](https://github.com/gldgrnt/wmnds-versioning-test/commit/dea758d3ae620bf53c314a21943df8245d9ac6b2))
+
+## [4.1.2](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.1...v4.1.2) (2020-10-23)
+
+
+### Bug Fixes
+
+* add persist-credentials back in ([ca696de](https://github.com/gldgrnt/wmnds-versioning-test/commit/ca696de3927217197eb47f4447d47ee9c93cf362))
+* remove token from workflow ([be56b52](https://github.com/gldgrnt/wmnds-versioning-test/commit/be56b5260be113d9970ecf6c56ab989cd2f5944e))
+
+## [4.1.1](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.1.0...v4.1.1) (2020-10-23)
+
+
+### Bug Fixes
+
+* use token for branch checkout ([e9cbe58](https://github.com/gldgrnt/wmnds-versioning-test/commit/e9cbe5897d1e2e65f53c5945996c29162880ae9b))
+
+# [4.1.0](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.3...v4.1.0) (2020-10-22)
+
+
+### Bug Fixes
+
+* add test class back in ([53ae633](https://github.com/gldgrnt/wmnds-versioning-test/commit/53ae633e425e8fb5552e1eec6b47b33db4694ae2))
+* change title colour to red ([#27](https://github.com/gldgrnt/wmnds-versioning-test/issues/27)) ([68b64ec](https://github.com/gldgrnt/wmnds-versioning-test/commit/68b64eccac43de1e8d32b2d8054ae9d23167dcae)), closes [#26](https://github.com/gldgrnt/wmnds-versioning-test/issues/26)
+
+
+### Features
+
+* add test css class ([d2d9244](https://github.com/gldgrnt/wmnds-versioning-test/commit/d2d92449a7a559f601d5aa4e69145ea67c0b7422))
+
 ## [4.0.3](https://github.com/gldgrnt/wmnds-versioning-test/compare/v4.0.2...v4.0.3) (2020-10-22)
 
 

@@ -9,6 +9,7 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       # Checkout branch
       - name: Checkout branch
@@ -22,7 +23,7 @@ jobs:
           node-version: "12.x"
       # Dry run a release to check if one if necessary
       - name: Check for new release
-        uses: cycjimmy/semantic-release-action@v2
+        uses: cycjimmy/semantic-release-action@v2.5.0
         id: dry_release
         with:
           dry_run: true
@@ -48,7 +49,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
       # Deploy build folder to Netlify IF the branch is master
       - name: Deploy to Netlify
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/master' && !startsWith(github.event.head_commit.message, 'ci:') && !contains(github.event.head_commit.message, '[skip netlify]')
         uses: nwtgck/actions-netlify@v1.1.11
         with:
           publish-dir: "./build"
