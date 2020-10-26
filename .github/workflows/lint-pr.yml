@@ -1,9 +1,6 @@
 name: "Lint PR"
 
 on:
-  pull_request:
-    branches:
-      - next-*
   pull_request_target:
     types:
       - opened
@@ -14,6 +11,7 @@ jobs:
   lint:
     name: Lint PR
     runs-on: ubuntu-latest
+    if: "startsWith(github.base_ref, 'next-')"
     steps:
       - uses: amannn/action-semantic-pull-request@v1.2.0
         env:

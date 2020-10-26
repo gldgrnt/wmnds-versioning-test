@@ -9,7 +9,7 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    if: !contains(github.event.head_commit.message , '[skip ci]') || !startsWith(github.event.head_commit.message, 'ci:')
     steps:
       # Checkout branch
       - name: Checkout branch
