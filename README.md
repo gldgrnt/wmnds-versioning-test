@@ -13,3 +13,4 @@ Package versioning using GitHub actions.
 | Automatically update changelog                          | Automatically done with `semantic release`. When squashing and merging PR, the changelog will include any semantic commit from the branch that follows the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) spec. | :white_check_mark: |
 
 Docs edit 1
+Docs edit 2
